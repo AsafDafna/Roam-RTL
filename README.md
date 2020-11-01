@@ -6,7 +6,7 @@ JS script to enable block-level Right-to-Left writing in RoamResearch
 
 ### CSS
 1. Create a [[roam/css]] page in your Roam database (or go to that page if it already exist).
-2. create a code block in the [[roam/css]] page and paste the css code from the `custome.css` file in it and change the language selector on the top right of the code block to "CSS".
+2. create a code block in the [[roam/css]] page and paste the css code from the `custom.css` file in it and change the language selector on the top right of the code block to "CSS".
 
 ### JS
 1. Create a new page in your Roam database where you want the script to be saved. You can name the page whatever you want. 
@@ -16,5 +16,5 @@ JS script to enable block-level Right-to-Left writing in RoamResearch
 
 ## How to use:
 
-Use #RTL tag in the start of the block to apply the custome CSS to that block and all nested blocks (the tag disappears when you're not in the block).
+Use #RTL tag in the start of the block to apply the custom CSS to that block and all nested blocks (the tag disappears when you're not in the block).
 * You will need to navigate out of the block to apply the css, then navigate back in and start writing after the tag.
