@@ -1,6 +1,6 @@
 .roam-block-container[data-page-links*="RTL"] .rm-block-main,
-.roam-body-main .flex-h-box {
-    direction: rtl;
+ .rm-block-children .rm-block__children .rm-level-0 .flex-h-box {
+  direction: rtl;
 }
 .roam-block-container[data-page-links*="RTL"] .rm-block-children 
  .block-border-left {
